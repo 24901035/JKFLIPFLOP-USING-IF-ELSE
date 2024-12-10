@@ -42,7 +42,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![Screenshot 2024-12-10 140018](https://github.com/user-attachments/assets/14c1c4ba-d228-4dc8-9ca3-ef220929f77a)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![Screenshot 2024-12-10 140037](https://github.com/user-attachments/assets/112b52ed-313b-40f4-b8d5-a2ae73d4ea9f)
 
 **RESULTS**
+Program for JK flipflops was verified in quartus using Verilog programming.
